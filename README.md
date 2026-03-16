@@ -52,5 +52,5 @@
 ## ☁️ Deployment Architecture
 * The system is architected for high availability on AWS. The Streamlit frontend resides on EC2, while all incident logs and system states are persisted in Amazon RDS.
 
-##👨‍💻 Developed By
+## 👨‍💻 Developed By
 * Selvakumaran Muthusamy Data Science Aspirant | Software Development & System Administration
