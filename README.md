@@ -38,9 +38,9 @@
 * DB_PASSWORD=your-password
 * DB_NAME=your-DB-name
 * Groq_API_KEY=your-groq-api-key
-* EMAIL_USER=your-email@gmail.com
+* EMAIL_USER=your-email
 * EMAIL_PASS=your-app-password
-* EMERGENCY_EMAIL=your-mail
+* EMERGENCY_EMAIL=emergency-email
 
 3. **Install Dependencies:**
 * pip install -r requirements.txt
@@ -50,7 +50,7 @@
 * streamlit run Main_App.py
 
 ## ☁️ Deployment Architecture
-The system is architected for high availability on AWS. The Streamlit frontend resides on EC2, while all incident logs and system states are persisted in Amazon RDS.
+* The system is architected for high availability on AWS. The Streamlit frontend resides on EC2, while all incident logs and system states are persisted in Amazon RDS.
 
 ##👨‍💻 Developed By
-Selvakumaran Muthusamy Data Science Aspirant | Software Development & System Administration
+* Selvakumaran Muthusamy Data Science Aspirant | Software Development & System Administration
