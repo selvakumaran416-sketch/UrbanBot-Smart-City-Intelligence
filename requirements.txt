@@ -3,15 +3,15 @@ pandas
 numpy
 matplotlib
 plotly
-folium
-streamlit-folium
+pillow
 
 SQLAlchemy
-pymysql
+mysql-connector-python
 
 tensorflow
 scikit-learn
 joblib
+textblob
 
 ultralytics
 opencv-python
@@ -19,4 +19,5 @@ opencv-python
 groq
 python-dotenv
 
+secure-smtplib
 requests
