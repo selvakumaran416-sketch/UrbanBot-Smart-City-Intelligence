@@ -51,34 +51,34 @@
 
 ## 🧩 System Modules
 
-1. **Introduction**
+# 1. **Introduction**
 <img width="1920" height="1375" alt="Introduction" src="https://github.com/user-attachments/assets/b72188fa-57cd-4b05-b661-81f7a9e0f392" />
 
-2. **Dashboard**
+# 2. **Dashboard**
 <img width="1920" height="1447" alt="Dashboard" src="https://github.com/user-attachments/assets/4e830363-652f-473b-9e19-080bb41cc713" />
 
-3. **Accident Detection**
+# 3. **Accident Detection**
 <img width="1920" height="1145" alt="Accident" src="https://github.com/user-attachments/assets/c5ba10d3-b52e-4587-93f1-973b4a074c1f" />
 
-4. **Traffic Detection**
+# 4. **Traffic Detection**
 <img width="1920" height="1317" alt="Traffic" src="https://github.com/user-attachments/assets/0aec80cc-e82c-422e-9c2a-00d1691e611e" />
 
-5. **Crowd Detection**
+# 5. **Crowd Detection**
 <img width="1920" height="1192" alt="Crowd" src="https://github.com/user-attachments/assets/7d8f2509-b07a-4a7b-b096-1f1a42af371e" />
 
-6. **Road Damage Detection**
+# 6. **Road Damage Detection**
 <img width="1920" height="1431" alt="Road_Damage" src="https://github.com/user-attachments/assets/4fdcfae1-95fb-4156-bb42-73ad6209947f" />
 
-7. **Air Quality Detection**
+# 7. **Air Quality Detection**
 <img width="1920" height="1445" alt="Air_Quality" src="https://github.com/user-attachments/assets/c0c06bf1-3421-431f-b6c5-746978343d3b" />
 
-8. **Citizen Complaints**
+# 8. **Citizen Complaints**
 <img width="1920" height="1900" alt="Citizen_Complaints" src="https://github.com/user-attachments/assets/6385ce8b-7eca-455f-a60e-cd0b536063c1" />
 
-9. **Chat Bot**
+# 9. **Chat Bot**
 <img width="1920" height="2325" alt="Chat_bot" src="https://github.com/user-attachments/assets/c742c1b8-52f5-45b3-81f6-a4a428bab181" />
 
-10. **Developer Profile**
+# 10. **Developer Profile**
 <img width="1920" height="2055" alt="Profile" src="https://github.com/user-attachments/assets/65343d7a-1368-4ba6-94ce-7a844546fa79" />
 
 ## ☁️ Deployment Architecture
