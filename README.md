@@ -51,8 +51,7 @@
 
 ## 🧩 System Modules
 
-<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/73479433-de4c-483d-9bb6-779098d20188" />
-. **Introduction**
+1. **Introduction**
 
 
 
