@@ -52,7 +52,7 @@
 ## 🧩 System Modules
 
 1. **Introduction**
-<img width="1920" height="1375" alt="screencapture-localhost-8501-2026-03-18-16_55_10" src="https://github.com/user-attachments/assets/cc79a87b-bf92-486a-9f77-66af341416c4" />
+
 
 
 ## ☁️ Deployment Architecture
